@@ -1,0 +1,31 @@
+{
+  "name": "amboulchouk",
+  "version": "1.0.0",
+  "description": "Single page app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMBoulchouk/amboulchouk.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Learning"
+  ],
+  "bugs": {
+    "url": "https://github.com/AMBoulchouk/amboulchouk/issues"
+  },
+  "homepage": "https://github.com/AMBoulchouk/amboulchouk#readme",
+  "author": "Alex Mijail Boulchouk",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
